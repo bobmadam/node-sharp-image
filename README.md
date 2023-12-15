@@ -42,7 +42,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
       $ npm start
 
-      Or
+Or
 
       $ node app.js
 
